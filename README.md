@@ -6,7 +6,7 @@ This project dives into customer churn behavior using structured data and visual
 ---
 
 ## 📂 Dataset  
-- **File**: `churn_data.csv`  
+- **File**: `Churn_Modelling.csv`  
 - **Key Columns**:  
   - **Exited** – Whether the customer left  
   - **Geography** – Country (France, Germany, Spain)  
